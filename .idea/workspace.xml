@@ -12785,11 +12785,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main_ui.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="161" column="35" selection-start-line="161" selection-start-column="35" selection-end-line="161" selection-end-column="35" />
+            <state relative-caret-position="349">
+              <caret line="327" column="51" lean-forward="true" selection-start-line="327" selection-start-column="51" selection-end-line="327" selection-end-column="51" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -12850,6 +12850,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-456">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5e09badc-71cb-42d5-abe1-4c96e84f7b5f/console.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
@@ -12858,11 +12870,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/logic/stock_logic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="196" column="16" selection-start-line="196" selection-start-column="16" selection-end-line="196" selection-end-column="16" />
+            <state relative-caret-position="247">
+              <caret line="113" column="32" lean-forward="true" selection-start-line="113" selection-start-column="32" selection-end-line="113" selection-end-column="32" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -12983,17 +12995,17 @@
         <option value="$PROJECT_DIR$/test/total_stock_count_test.py" />
         <option value="$PROJECT_DIR$/src/util/stock_util.py" />
         <option value="$PROJECT_DIR$/src/handler.py" />
-        <option value="$PROJECT_DIR$/src/logic/stock_logic.py" />
         <option value="$PROJECT_DIR$/src/main_ui.py" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/5e09badc-71cb-42d5-abe1-4c96e84f7b5f/console.sql" />
+        <option value="$PROJECT_DIR$/src/logic/stock_logic.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2243" />
-    <option name="y" value="77" />
-    <option name="width" value="1773" />
-    <option name="height" value="1050" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1823" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -13012,6 +13024,12 @@
               <item name="stock-search_kmong1454775" type="b2602c69:ProjectViewProjectNode" />
               <item name="stock-search_kmong1454775" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stock-search_kmong1454775" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stock-search_kmong1454775" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="stock-search_kmong1454775" type="b2602c69:ProjectViewProjectNode" />
@@ -13049,14 +13067,14 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\PycharmProjects\stock-search_kmong1454775\src" />
-      <recent name="C:\Users\user\PycharmProjects\stock-search_kmong1454775\src\db" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\PycharmProjects\stock-search_kmong1454775\test" />
       <recent name="C:\Users\user\PycharmProjects\stock-search_kmong1454775\src" />
       <recent name="C:\Users\user\PycharmProjects\stock-search_kmong1454775" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\stock-search_kmong1454775\src" />
+      <recent name="C:\Users\user\PycharmProjects\stock-search_kmong1454775\src\db" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -13267,7 +13285,7 @@
       <workItem from="1592219647146" duration="13503000" />
       <workItem from="1592262291055" duration="415000" />
       <workItem from="1592311142871" duration="29625000" />
-      <workItem from="1592373525428" duration="24556000" />
+      <workItem from="1592373525428" duration="26869000" />
     </task>
     <task id="LOCAL-00001" summary="현재 주가 바로 받기">
       <created>1591541580868</created>
@@ -13280,7 +13298,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237833000" />
+    <option name="totallyTimeSpent" value="240146000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -13293,6 +13311,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1823" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19977298" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -13314,8 +13333,8 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.2247446" />
-      <window_info anchor="right" id="Database" order="4" weight="0.43132928" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.2247446" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.22985244" />
       <window_info anchor="right" id="JSON Utils" order="5" />
     </layout>
   </component>
@@ -13644,16 +13663,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/db/db_manager.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -13678,26 +13687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="102" column="8" selection-start-line="102" selection-start-column="8" selection-end-line="102" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/handler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="198" selection-start-line="198" selection-end-line="198" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/logic/stock_logic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="196" column="16" selection-start-line="196" selection-start-column="16" selection-end-line="196" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -13735,10 +13724,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main_ui.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="161" column="35" selection-start-line="161" selection-start-column="35" selection-end-line="161" selection-end-column="35" />
+        <state relative-caret-position="349">
+          <caret line="327" column="51" lean-forward="true" selection-start-line="327" selection-start-column="51" selection-end-line="327" selection-end-column="51" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="198" selection-start-line="198" selection-end-line="198" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logic/stock_logic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="113" column="32" lean-forward="true" selection-start-line="113" selection-start-column="32" selection-end-line="113" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>

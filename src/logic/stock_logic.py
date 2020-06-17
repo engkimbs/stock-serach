@@ -103,7 +103,7 @@ class StockLogic:
         def calc_loc(low, close, current):
             if current <= low:
                 return (current-low)/low * 100
-            # close 와 low 가 같을시에는?
+            # close 와 low 가 같을시에는?      => 없애기
             elif close == low:
                 return 999999
             else:
